@@ -1,7 +1,7 @@
 
 ## About Us
 
-👋 We are the Research Group for Discourse Analysis, LPAI, Soochow University.
+👋 We are the Research Group for Discourse Analysis, LPAI Lab, Soochow University.
 Our work primarily centers on:
 
 - **PDTB 2.0/3.0** - Penn Discourse TreeBank datasets
