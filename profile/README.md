@@ -2,6 +2,7 @@
 ## About Us
 
 👋 We are the Research Group for Discourse Analysis, LPAI Lab, Soochow University.
+
 Our work primarily centers on:
 
 - **PDTB 2.0/3.0** - Penn Discourse TreeBank datasets
@@ -17,6 +18,6 @@ Our work primarily centers on:
 - **Reinforcement Learning** (like PPO and GRPO)
 
 
-## 📫 Get in Touch
+##  Get in Touch
 
-You can contact us by [email](zhipangwang@gmail.com).
+📫 You can contact us by [email](zhipangwang@gmail.com).
